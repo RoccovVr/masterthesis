@@ -1,2 +1,2 @@
 # masterthesis
-Simulation scripts for my master thesis *INfluence of delays on SOAP systems*.
+Simulation scripts for my master thesis *Influence of delays on SOAP systems*.
